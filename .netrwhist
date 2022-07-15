@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/Users/dani2934/dev/mono/stepladder/misc/kubernetes/stepladder'
+let g:netrw_dirhist_0='/Users/dani2934/dev/mono/stepladder/stepladder/templates/lama/ticket_updates/public'
+let g:netrw_dirhist_9='/Users/dani2934/dev/mono/stepladder/stepladder/templates/lama/ticket_updates'
+let g:netrw_dirhist_8='/Users/dani2934/dev/mono/stepladder/stepladder/templates/lama/ticket_updates/private'
+let g:netrw_dirhist_7='/Users/dani2934/dev/mono/stepladder/stepladder/templates/lama/maintenance_builder/_templates'
+let g:netrw_dirhist_6='/Users/dani2934/dev/mono/stepladder/stepladder/templates/lama/maintenance_builder'
+let g:netrw_dirhist_5='/Users/dani2934/dev/mono/stepladder/stepladder/templates/lama/maintenance_builder/_templates'
+let g:netrw_dirhist_4='/Users/dani2934/dev/mono/stepladder/stepladder/templates/lama/maintenance_builder'
+let g:netrw_dirhist_3='/Users/dani2934/dev/mono/stepladder/stepladder/templates/lama/maintenance_builder/_templates'
+let g:netrw_dirhist_2='/Users/dani2934/dev/mono/stepladder/stepladder/templates/lama/maintenance_builder'
